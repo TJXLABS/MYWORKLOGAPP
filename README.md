@@ -40,8 +40,8 @@ Read our full ([PrivacyPolicy](https://github.com/TJXLABS/MYWORKLOGAPP/blob/5b94
 ---
 
 ## 📄 Support
-- [Privacy Policy](https://github.com/TJXLABS/MYWORKLOGAPP/blob/94ddb3661c28dc240b7d9178ae8723e8bc025fb2/PrivacyPolicy)  
-- [Contact Support](https://github.com/TJXLABS/MYWORKLOGAPP/blob/94ddb3661c28dc240b7d9178ae8723e8bc025fb2/Support%26Faqs)
+- [Privacy Policy](https://github.com/TJXLABS/MYWORKLOGAPP/blob/5b9402425cf78751d055b63d95147ef0aa02ad95/PrivacyPolicy)  
+- [Contact Support](https://github.com/TJXLABS/MYWORKLOGAPP/blob/4f0e0d52754ea35aec80e12631790e4af2765c05/Support%26Faqs)
 
 If you encounter issues or have feedback, please open an issue in this repository or contact us directly.
 
