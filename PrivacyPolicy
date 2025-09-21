@@ -1,0 +1,34 @@
+# Privacy Policy for Worklog App
+
+Effective Date: September 21, 2025  
+
+Your privacy is important to us. This Privacy Policy explains how the **Worklog App** (“we,” “our,” or “us”) handles your information.
+
+## Information We Collect
+- **User-entered data**: Hours worked, overtime, pay rates, allowances, and related work-log information.  
+- **Device information**: Basic diagnostic info (app version, crash reports via Firebase Crashlytics).  
+
+We **do not** collect sensitive personal data such as contacts, messages, photos, or precise location.
+
+## How We Use Information
+- To calculate and display wages, overtime, and work summaries.  
+- To store preferences locally on your device (e.g., currency, date format).  
+- To improve app stability and fix bugs (anonymous crash reports).  
+
+## Data Storage
+- All work-log data is stored **locally on your device**.  
+- Crash reports are handled by **Firebase Crashlytics** and may include anonymized technical info.  
+
+We do not share or sell your data.
+
+## Purchases
+- Payments and subscriptions are handled securely through **Google Play Billing**.  
+- We do not store your payment information.  
+
+## Your Choices
+- You can clear all app data at any time by uninstalling the app.  
+- You may also manage purchase history and subscriptions via the Google Play Store.  
+
+## Contact Us
+If you have questions or concerns, contact us at:  
+📧 **support@yourdomain.com**
