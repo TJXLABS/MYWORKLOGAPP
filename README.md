@@ -40,7 +40,7 @@ Read our full ([PrivacyPolicy](https://github.com/TJXLABS/MYWORKLOGAPP/blob/94dd
 ---
 
 ## 📄 Support
-- [Privacy Policy](https://yourusername.github.io/worklogapp/privacy)  
+- [Privacy Policy](https://github.com/TJXLABS/MYWORKLOGAPP/blob/94ddb3661c28dc240b7d9178ae8723e8bc025fb2/PrivacyPolicy)  
 - [Contact Support](mailto:support@yourdomain.com)
 
 If you encounter issues or have feedback, please open an issue in this repository or contact us directly.
