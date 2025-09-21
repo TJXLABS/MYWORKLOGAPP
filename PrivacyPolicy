@@ -1,34 +1,38 @@
-# Privacy Policy for Worklog App
+# Privacy Policy
 
-Effective Date: September 21, 2025  
+Last updated: September 2025
 
-Your privacy is important to us. This Privacy Policy explains how the **Worklog App** (“we,” “our,” or “us”) handles your information.
+Thank you for using **Worklog**. This Privacy Policy explains what information the app collects, how it is used, and your choices.
 
 ## Information We Collect
-- **User-entered data**: Hours worked, overtime, pay rates, allowances, and related work-log information.  
-- **Device information**: Basic diagnostic info (app version, crash reports via Firebase Crashlytics).  
 
-We **do not** collect sensitive personal data such as contacts, messages, photos, or precise location.
+- **Crash & Diagnostics Data:** We collect basic app diagnostics and crash reports through [Firebase Crashlytics](https://firebase.google.com/products/crashlytics). This helps us improve stability and fix bugs.
+- **Purchase Information:** If you buy Pro features, the app uses [Google Play Billing](https://play.google.com/about/play-terms/) to process the transaction. We do not see or store your payment details — only the purchase status (e.g., active, expired) is checked.
 
-## How We Use Information
-- To calculate and display wages, overtime, and work summaries.  
-- To store preferences locally on your device (e.g., currency, date format).  
-- To improve app stability and fix bugs (anonymous crash reports).  
+## Information We Do NOT Collect
 
-## Data Storage
-- All work-log data is stored **locally on your device**.  
-- Crash reports are handled by **Firebase Crashlytics** and may include anonymized technical info.  
+We do not collect personal details such as your name, email, location, contacts, photos, or files. All shift/work data you enter stays only on your device unless you manually export it.
 
-We do not share or sell your data.
+## How We Use Data
 
-## Purchases
-- Payments and subscriptions are handled securely through **Google Play Billing**.  
-- We do not store your payment information.  
+- To keep the app stable and fix crashes.
+- To confirm and restore purchases you have made.
+- To provide Pro features after purchase.
+
+## Data Sharing
+
+We share limited technical data with:
+
+- **Google Firebase:** crash reports and diagnostics.
+- **Google Play Billing:** purchase status to unlock Pro features.
 
 ## Your Choices
-- You can clear all app data at any time by uninstalling the app.  
-- You may also manage purchase history and subscriptions via the Google Play Store.  
+
+- You can request deletion of your data by contacting us (see below).
+- You can choose not to upgrade to Pro; the app will still work with free features.
 
 ## Contact Us
-If you have questions or concerns, contact us at:  
-📧 tjxlabs@gmail.com
+
+If you have questions or requests regarding this Privacy Policy, please reach out:
+
+📧 Email: tjxlabs@gmail.com
