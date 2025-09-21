@@ -27,7 +27,7 @@ Stay tuned for the release!
 - Crash reports are handled anonymously via **Firebase Crashlytics**.  
 - Payments are handled securely with **Google Play Billing**.  
 
-Read our full ([PrivacyPolicy](https://github.com/TJXLABS/MYWORKLOGAPP/blob/94ddb3661c28dc240b7d9178ae8723e8bc025fb2/PrivacyPolicy).
+Read our full ([PrivacyPolicy](https://github.com/TJXLABS/MYWORKLOGAPP/blob/94ddb3661c28dc240b7d9178ae8723e8bc025fb2/PrivacyPolicy)
 
 ---
 
@@ -41,7 +41,7 @@ Read our full ([PrivacyPolicy](https://github.com/TJXLABS/MYWORKLOGAPP/blob/94dd
 
 ## 📄 Support
 - [Privacy Policy](https://github.com/TJXLABS/MYWORKLOGAPP/blob/94ddb3661c28dc240b7d9178ae8723e8bc025fb2/PrivacyPolicy)  
-- [Contact Support](mailto:support@yourdomain.com)
+- [Contact Support](https://github.com/TJXLABS/MYWORKLOGAPP/blob/94ddb3661c28dc240b7d9178ae8723e8bc025fb2/Support%26Faqs)
 
 If you encounter issues or have feedback, please open an issue in this repository or contact us directly.
 
