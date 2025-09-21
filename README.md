@@ -27,7 +27,7 @@ Stay tuned for the release!
 - Crash reports are handled anonymously via **Firebase Crashlytics**.  
 - Payments are handled securely with **Google Play Billing**.  
 
-Read our full ([PrivacyPolicy](https://github.com/TJXLABS/MYWORKLOGAPP/blob/94ddb3661c28dc240b7d9178ae8723e8bc025fb2/PrivacyPolicy) )
+Read our full ([PrivacyPolicy](https://github.com/TJXLABS/MYWORKLOGAPP/blob/5b9402425cf78751d055b63d95147ef0aa02ad95/PrivacyPolicy) )
 
 ---
 
