@@ -50,7 +50,6 @@ If you encounter issues or have feedback, please open an issue in this repositor
 ## 🚀 Roadmap
 - Subscription options (monthly/yearly Pro)
 - In-app FAQ / Support screen
-- Analytics for paywall optimization
 - Additional export formats
 
 ---
